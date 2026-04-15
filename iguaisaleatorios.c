@@ -18,5 +18,5 @@ void main()
 
     printf("Após %d tentativas, os dois números gerados são iguais a %d\n", tentativas, a);
 
-    printf("Criado por [SEU NOME]");
+    printf("Criado por Thiago Bonfanti Guimarães");
 }
